@@ -1,4 +1,4 @@
-<img  align="centre" alt="coding" width="100%" height="500" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI">
+<img  align="centre" alt="coding" width="100%" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh4emZubjA0cGx6d2JqZHZoZDg3azdmd3dzYjh2am1yYmtjYnl4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif">
 <h1 align="center">Hi 👋, I'm Monu Prajapat</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
