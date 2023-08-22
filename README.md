@@ -1,4 +1,4 @@
-![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![logo](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Monu Prajapat</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
