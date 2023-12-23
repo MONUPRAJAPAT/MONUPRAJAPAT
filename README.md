@@ -16,6 +16,8 @@
 - 📫 How to reach me **monuprajapat6270@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/g0h0rgd8st](https://flowcv.com/resume/g0h0rgd8st)
+  
+- 👨‍💻 All of my projects are available at https://basic-portfolio-sooty.vercel.app/ 
 
 - ⚡ Fun fact **I can type 100 words per minute**
 
