@@ -128,15 +128,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=monuprajapat&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=monuprajapat&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuprajapat&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=monuprajapat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</div>
-
 #### 🐍 Contribution Graph
 <div align="center">
   <picture>
