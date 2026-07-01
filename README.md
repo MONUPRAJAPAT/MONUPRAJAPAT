@@ -8,9 +8,8 @@
 
 <br/>
 
-<a href="https://react-portfolio-i8nk.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+<a href="https://monuprajapat.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/monuprajapat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://flowcv.com/resume/g0h0rgd8st"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
 <a href="https://instagram.com/monu__prajapat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:monuprajapat6270@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
